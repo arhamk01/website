@@ -296,9 +296,10 @@ a:hover {
     }
 }
 
+
 .home-sci {
     position: absolute;
-    bottom: 25px;
+    bottom: 10px;
     width: 180px;
     display: flex;
     justify-content: space-between;
