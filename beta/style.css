@@ -298,7 +298,7 @@ a:hover {
 
 .home-sci {
     position: absolute;
-    bottom: 50px;
+    bottom: 25px;
     width: 180px;
     display: flex;
     justify-content: space-between;
